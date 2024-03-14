@@ -1,6 +1,6 @@
 # Live Demo
 
-Live demo can be seen at: [https://reactcalculator-klx8.onrender.com](https://ecommercefrontend-zzry.onrender.com)
+Live demo can be seen at: https://ecommercefrontend-zzry.onrender.com
 
 # Getting Started with Create React App
 
